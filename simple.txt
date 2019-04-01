@@ -1,5 +1,4 @@
-this is my simple file
-
-
-Hello
-
+Hello,
+Welcome to the world of Harry Potter.
+Here you will see nothing but Magic.
+And by Magic I mean nothing!
